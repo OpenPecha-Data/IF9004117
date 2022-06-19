@@ -1,0 +1,38 @@
+id: IF9004117
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T10:21:50.386706'
+last_modified: '2022-06-19T10:21:50.386719'
+parser: null
+source_metadata:
+  title: Hagiography of Tshar chen Blo gsal rgya mtsho (1502–1566/67); Lamdre Lobshe,
+    vol. kha, title no. 5
+  author: ngag dbang blo bzang brgya mtsho/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-26); converted from external file, unrevised, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/386
+  bases:
+    a901:
+      title: Hagiography of Tshar chen Blo gsal rgya mtsho (1502–1566/67); Lamdre
+        Lobshe, vol. kha, title no. 5
+      order: 1
+      base_file: a901.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
